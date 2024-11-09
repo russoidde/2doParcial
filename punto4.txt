@@ -1,0 +1,2 @@
+a_ estoy conectado a la red: FRTDF ALUMNOS.
+b_ esta red pertenece a la clase c porque el primer octeto de la ip es 192.

@@ -1,0 +1,6 @@
+a_ en la capa de aplicacion es donde ocurren las interacciones directas entre el software de aplicación y los protocolos de red. Esta capa gestiona las funciones de comunicación que permiten que los usuarios finales y los programas de aplicación utilicen la red. 
+b_  En la capa de transporte del modelo OSI, los protocolos principales son:
+-TCP (Transmission Control Protocol)
+-UDP (User Datagram Protocol)
+-SCTP (Stream Control Transmission Protocol)
+

@@ -1,0 +1,4 @@
+hay 3 clases de ip:
+clase a: en esta clase hay solo 8 bits destinados a la parte de red y 24 bits destinados a la parte del host.
+clase b: en esta clase hay 16 bits destinados a la parte de red y 16 bits destinados a la parte del host.
+clase c: en esta clase hay 24 bits destinados a la parte de red y solamente 8 bits destinados a la parte del host.
