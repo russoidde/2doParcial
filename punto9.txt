@@ -1,0 +1,6 @@
+a_ el término rama (branch) hace referencia a una copia aislada del código principal en la que los desarrolladores pueden realizar cambios de forma independiente sin afectar la base de código principal.
+b_Un repositorio (o "Repo" para abreviar) es un proyecto que contiene múltiples archivos. 
+c_ Git bash tiene 3 ares de trabajo y estas son: 
+-Area de trabajo 
+-Area de preparación
+-Repositorio

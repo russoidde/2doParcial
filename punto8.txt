@@ -1,0 +1,7 @@
+Los servicios que podemos utilizar de la Nube PaaS son:
+-Google App Engine
+-Heroku
+-Microsoft Azure App Service
+-AWS Elastic Beanstalk
+-Oracle Cloud Platform
+-IBM Cloud Foundry

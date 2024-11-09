@@ -1,0 +1,7 @@
+Estos son los recursos basicos que se deben configurar en la instalación de una máquina virtual:
+-CPU
+-Memoria RAM
+-Almacenamiento en el disco
+-Adaptador de red
+-Sistema operativo
+-Configuracion de graficos
